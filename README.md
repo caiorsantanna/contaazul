@@ -1,6 +1,6 @@
 <div align="center">
   <a target="_blank" href="https://developers.contaazul.com/" align="center" width="100%">
-    <img src=".github/static/logo.png" alt="ContaAzul logo" width="65%">
+    <img src=".github/static/logo.png" alt="ContaAzul logo" width="85%">
   </a>
   <div><code>npm install contaazul --save</code></div>
   <br>
